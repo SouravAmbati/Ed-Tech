@@ -1,4 +1,4 @@
-#EDTECH
+
 ## Acknowledgements
 
  We would like to express our sincere gratitude to everyone who supported and contributed to the success of this project during the Hack Horizon hackathon.
